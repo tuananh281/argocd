@@ -25,4 +25,4 @@ helm repo add brigade https://brigadecore.github.io/charts
 helm install testchart bitnami/wordpress
 
 # WIP
-kubectl apply -f pv-cluster.yaml
+# kubectl apply -f pv-cluster.yaml
